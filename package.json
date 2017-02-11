@@ -1,7 +1,7 @@
 {
-    "name": "lance_server",
+    "name": "static-webserver-base",
     "version": "1.0.0",
-    "description": "Lance",
+    "description": "Static-Webserver-Base",
     "main": "server.js",
     "dependencies": {
         "body-parser": "^1.0.2",
